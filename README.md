@@ -19,13 +19,19 @@ Challenges are sorted based on the following categories:
 
 Feel free to modify my current solutions, I would love to see how you tackle these problems!
 However, you will need to create your own test cases for most of these challenges. If you don't want to do this,
-I have attached links to each of the problems.
+I have attached links to each of the problems below.
 
 ## Languages 
 
 ### Java
 
-* Test
+* Output Formatting (https://www.hackerrank.com/challenges/java-output-formatting/problem)
+* String Reverse (https://www.hackerrank.com/challenges/java-string-reverse/problem)
+* Data Types (https://www.hackerrank.com/challenges/java-datatypes/problem)
+
 
 ### Bash
+
+* Hello World (https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)  
+* Looping and Skipping (https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)
 
