@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// https://www.hackerrank.com/challenges/java-output-formatting/problem
+
 public class FormatOutput {
 
     public static void main(String[] args) {
