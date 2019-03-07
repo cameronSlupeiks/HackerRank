@@ -1,5 +1,7 @@
 # Hacker Rank Challenges 👨‍💻
-Here, you can find my solution set to daily challenges completed on Hacker Rank. 
+Here, you can find my solution set to daily challenges completed on Hacker Rank. I started these daily challenges because:
+1) I want to improve my work-related knowledge.
+2) I want to learn something new everyday!
 
 ## Categories
 
