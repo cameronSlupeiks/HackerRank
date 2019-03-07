@@ -6,7 +6,7 @@ Here, you can find my solution set to daily challenges completed on Hacker Rank.
 
 ## Categories
 
-Challenges are sorted by the following categories:
+Challenges are sorted based on the following categories:
 
 1) Languages (ie. Language Proficiency)
 2) Data Structures (Coming Soon)
