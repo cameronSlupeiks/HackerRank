@@ -1,6 +1,8 @@
 import java.util.*;
 import java.io.*;
 
+// Challenge Link: https://www.hackerrank.com/challenges/java-datatypes/problem
+
 class DataTypes {
 
     public static void main(String []argh)
