@@ -9,3 +9,8 @@ Challenges are sorted by the following categories:
 2) Specialized Skills
 3) Problem Solving
 
+## Forking
+
+Feel free to modify my current solutions, I would love to see how you tackle the same problem!
+However, you will need to create your own test cases.
+
