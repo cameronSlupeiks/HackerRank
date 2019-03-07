@@ -29,7 +29,6 @@ I have attached links to each of the problems below.
 * String Reverse (https://www.hackerrank.com/challenges/java-string-reverse/problem)
 * Data Types (https://www.hackerrank.com/challenges/java-datatypes/problem)
 
-
 ### Bash
 
 * Hello World (https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)  
