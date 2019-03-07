@@ -18,6 +18,14 @@ Challenges are sorted based on the following categories:
 ## Forking
 
 Feel free to modify my current solutions, I would love to see how you tackle these problems!
-However, you will need to create your own test cases for most of these challenges. If you don't want to fork,
-I have attached links to each of the problems in the solutions.
+However, you will need to create your own test cases for most of these challenges. If you don't want to do this,
+I have attached links to each of the problems.
+
+## Languages 
+
+### Java
+
+* Test
+
+### Bash
 
