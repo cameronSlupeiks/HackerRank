@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// https://www.hackerrank.com/challenges/java-output-formatting/problem
+// Challenge Link: https://www.hackerrank.com/challenges/java-output-formatting/problem
 
 public class FormatOutput {
 
