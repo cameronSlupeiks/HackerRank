@@ -34,3 +34,7 @@ I have attached links to each of the problems below.
 * Hello World (https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)  
 * Looping and Skipping (https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)
 
+## Data Structures
+
+
+
