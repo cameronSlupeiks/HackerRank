@@ -19,7 +19,7 @@ class Solution {
                 if(x >= (Math.pow(-2,63)) && x <= (Math.pow(2,63)-1)) {System.out.println("* long");}
             }
 
-            catch(Exception e) {System.out.println(sc.next()+" can't be fitted anywhere.");}
+            catch(Exception e) {System.out.println(sc.next() + " can't be fitted anywhere.");}
 
         }
     }
