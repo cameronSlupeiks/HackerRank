@@ -8,7 +8,6 @@ import sys
 Challenge Link: https://www.hackerrank.com/challenges/capitalize/problem
 '''
 
-
 def solve(s):
 
     chars = list(s)
