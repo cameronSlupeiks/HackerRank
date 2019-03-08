@@ -32,6 +32,7 @@ I have attached links to each of the problems below.
 ### Python
 
 * Nested Lists (https://www.hackerrank.com/challenges/nested-list/problem)
+* Capitalize (https://www.hackerrank.com/challenges/capitalize/problem)
 
 ### Bash
 
