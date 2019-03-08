@@ -1,5 +1,6 @@
-
-# Challenge Link: https://www.hackerrank.com/challenges/nested-list/problem
+'''
+Challenge Link: https://www.hackerrank.com/challenges/nested-list/problem
+'''
 
 if __name__ == '__main__':
 
@@ -33,3 +34,4 @@ if __name__ == '__main__':
 
     for i in range(len(secondLowest)):
         print(secondLowest[i])
+        
