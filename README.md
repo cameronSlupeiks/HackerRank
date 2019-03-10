@@ -44,4 +44,5 @@ I have attached links to each of the problems below.
 ### Linked Lists
 
 * Tail Insertion (https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem)
+* Print the Elements of a Linked List (https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
 
