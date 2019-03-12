@@ -45,4 +45,5 @@ I have attached links to each of the problems below.
 
 * Tail Insertion (https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem)
 * Print List Elements (https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
+* Print in Reverse (https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)
 
