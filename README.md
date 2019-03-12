@@ -47,3 +47,7 @@ I have attached links to each of the problems below.
 * Print List Elements (https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
 * Print in Reverse (https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)
 
+### Trees
+
+* Height of a Binary tree (https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)
+
