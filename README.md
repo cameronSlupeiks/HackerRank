@@ -42,6 +42,7 @@ I have attached links to each of the problems below.
 ### SQL
 
 * Select All (https://www.hackerrank.com/challenges/select-all-sql/problem)
+* Select By ID (https://www.hackerrank.com/challenges/select-by-id/problem)
 
 ### Bash 
 
