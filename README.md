@@ -14,6 +14,7 @@ Challenges are sorted based on the following categories:
 4) AI (Coming Soon)
 5) Databases (Coming Soon)
 6) Security (Coming Soon)
+7) Interview Preperation (Coming Soon)
 
 ## Forking
 
