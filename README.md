@@ -39,6 +39,10 @@ I have attached links to each of the problems below.
 * Nested Lists (https://www.hackerrank.com/challenges/nested-list/problem)
 * Capitalize (https://www.hackerrank.com/challenges/capitalize/problem)
 
+### SQL
+
+* Select All (https://www.hackerrank.com/challenges/select-all-sql/problem)
+
 ### Bash 
 
 * Hello World (https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)  
