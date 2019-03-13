@@ -23,18 +23,22 @@ I have attached links to each of the problems below.
 
 ## Languages 
 
-### Java ☕
+### Javascript
+
+* Arrow Functions (https://www.hackerrank.com/challenges/js10-arrows/problem)
+
+### Java 
 
 * Output Formatting (https://www.hackerrank.com/challenges/java-output-formatting/problem)
 * String Reverse (https://www.hackerrank.com/challenges/java-string-reverse/problem)
 * Data Types (https://www.hackerrank.com/challenges/java-datatypes/problem)
 
-### Python 🐍
+### Python 
 
 * Nested Lists (https://www.hackerrank.com/challenges/nested-list/problem)
 * Capitalize (https://www.hackerrank.com/challenges/capitalize/problem)
 
-### Bash 💻
+### Bash 
 
 * Hello World (https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)  
 * Looping and Skipping (https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)
@@ -42,13 +46,13 @@ I have attached links to each of the problems below.
 
 ## Data Structures
 
-### Linked Lists 🔗
+### Linked Lists
 
 * Tail Insertion (https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem)
 * Print List Elements (https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
 * Print in Reverse (https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)
 
-### Trees 🌲
+### Trees
 
 * Height of a Binary tree (https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)
 
