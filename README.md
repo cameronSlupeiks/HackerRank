@@ -26,6 +26,7 @@ I have attached links to each of the problems below.
 
 ### Javascript
 
+* Arrays (https://www.hackerrank.com/challenges/js10-arrays/problem)
 * Arrow Functions (https://www.hackerrank.com/challenges/js10-arrows/problem)
 
 ### Java 
