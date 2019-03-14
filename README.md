@@ -44,6 +44,7 @@ I have attached links to each of the problems below.
 
 * Select All (https://www.hackerrank.com/challenges/select-all-sql/problem)
 * Select By ID (https://www.hackerrank.com/challenges/select-by-id/problem)
+* Select By City (https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)
 
 ### Bash 
 
