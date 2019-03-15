@@ -27,6 +27,7 @@ I have attached links to each of the problems below.
 ### Javascript
 
 * Arrays (https://www.hackerrank.com/challenges/js10-arrays/problem)
+* Get Day Name (https://www.hackerrank.com/challenges/js10-date/problem)
 * Arrow Functions (https://www.hackerrank.com/challenges/js10-arrows/problem)
 
 ### Java 
