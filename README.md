@@ -29,6 +29,7 @@ I have attached links to each of the problems below.
 * Arrays (https://www.hackerrank.com/challenges/js10-arrays/problem)
 * Get Day Name (https://www.hackerrank.com/challenges/js10-date/problem)
 * Arrow Functions (https://www.hackerrank.com/challenges/js10-arrows/problem)
+* Create a Button (https://www.hackerrank.com/challenges/js10-create-a-button/problem)
 
 ### Java 
 
