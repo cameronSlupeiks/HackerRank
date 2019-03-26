@@ -8,7 +8,7 @@ Here, you can find my solution set to challenges completed on Hacker Rank. I sta
 
 Challenges are sorted based on the following categories:
 
-1) Languages (ie. Language Proficiency)
+1) Languages
 2) Data Structures
 3) Mathematics (Coming Soon)
 4) AI (Coming Soon)
