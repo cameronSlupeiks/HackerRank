@@ -63,6 +63,7 @@ I have attached links to each of the problems below.
 * Print List Elements (https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
 * Print in Reverse (https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)
 * Reverse a Linked List (https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)
+* Compare Two Linked Lists (https://www.hackerrank.com/challenges/compare-two-linked-lists/problem)
 
 ### Trees
 
