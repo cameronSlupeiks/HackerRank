@@ -64,6 +64,7 @@ I have attached links to each of the problems below.
 * Print in Reverse (https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)
 * Reverse a Linked List (https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)
 * Compare Two Linked Lists (https://www.hackerrank.com/challenges/compare-two-linked-lists/problem)
+* Node Deletion (https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)
 
 ### Trees
 
