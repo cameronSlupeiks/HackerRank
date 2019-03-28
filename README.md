@@ -65,6 +65,7 @@ I have attached links to each of the problems below.
 * Reverse a Linked List (https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)
 * Compare Two Linked Lists (https://www.hackerrank.com/challenges/compare-two-linked-lists/problem)
 * Node Deletion (https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)
+* Merge Two Sorted Linked Lists (https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)
 
 ### Trees
 
