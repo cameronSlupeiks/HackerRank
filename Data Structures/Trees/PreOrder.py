@@ -41,10 +41,6 @@ def preOrder(root):
         preOrder(root.left) 
         preOrder(root.right) 
         
-
-
-
-
 tree = BinarySearchTree()
 t = int(input())
 
