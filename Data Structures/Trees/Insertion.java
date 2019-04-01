@@ -14,8 +14,8 @@ class Node {
 }
 
 class Solution {
-   
-  	public static void preOrder( Node root ) {
+	
+	public static void preOrder( Node root ) {
       
     	if( root == null)
         	return;
@@ -24,7 +24,7 @@ class Solution {
         preOrder(root.left);
         preOrder(root.right);
      
-    }
+    	}
 
 	public static Node insert(Node root,int data) {
 
@@ -33,7 +33,8 @@ class Solution {
         else if(root.data < data) {root.right = insert(root.right, data);}
         
         return root;
-    }
+		
+    	}
 
 	public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
