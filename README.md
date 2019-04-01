@@ -71,6 +71,7 @@ I have attached links to each of the problems below.
 
 * Height of a Binary tree (https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)
 * Preorder Travsal (https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)
+* Inorder Traversal (https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)
 * Postorder Traversal (https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)
 
 
