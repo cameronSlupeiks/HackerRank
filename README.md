@@ -67,6 +67,7 @@ I have attached links to each of the problems below.
 * Compare Two Linked Lists (https://www.hackerrank.com/challenges/compare-two-linked-lists/problem)
 * Node Deletion (https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)
 * Merge Two Sorted Linked Lists (https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)
+* Node Insertion (https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)
 
 ### Trees
 
